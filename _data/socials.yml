@@ -1,8 +1,11 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf
+cv_pdf: /assets/pdf/vandevert_cv.pdf
 email: ivandevert@gmail.com
+orcid_id: 0000-0001-9560-4787
+github_username: ivandevert
+linkedin_username: ian-vandevert-67b01014b
 # inspirehep_id:
 # rss_icon:
 scholar_userid: iy5McroAAAAJ
