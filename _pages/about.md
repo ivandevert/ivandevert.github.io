@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate, <a href='https://scripps.ucsd.edu/'>Scripps Institution of Oceanography</a>. Earthquake source physics.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Institute of Geophysics and Planetary Physics</p>
+    <p>Scripps Institution of Oceanography</p>
+    <p>San Diego, California</p>
+    
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +24,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Some earthquakes produce lots of damaging high-frequency energy; others of the same magnitude release less. The difference matters: high-frequency radiation is what damages buildings, but we still don't fully understand why it varies, or what it reveals about the conditions at depth where the rupture happens.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a PhD candidate at Scripps Institution of Oceanography, advised by Peter Shearer and Wenyuan Fan, working on exactly this question. My dissertation develops a metric I call the normalized frequency index (nFI), which measures how much high-frequency energy an earthquake radiates relative to its low-frequency content. Unlike stress-drop estimates, which require fitting a source model to the observed spectrum, nFI is computed directly from the data. That makes it robust across large catalogs and well suited to asking where source properties vary systematically — across fault systems, with depth, between mainshocks and aftershocks. Most recently, I've applied it to roughly 775,000 events and 12 million seismograms spanning thirty years of California seismicity, and I'm defending in June 2026.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before Scripps I did my undergraduate in Earth Science at UC Santa Barbara, where I worked with Toshiro Tanimoto on seismic-noise cross-correlation and Robin Matoza on elastic-wave simulation. Between undergrad and grad school I spent a year as a geotechnical associate in the Bay Area, which is where I first started writing real software.
+
+I'm on the market for postdoc positions starting Fall 2026, with a preference for positions in Europe. I'm interested in anything relating to data science or seismology.

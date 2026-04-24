@@ -2,24 +2,23 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+title: Ian Vandevert          # browser tab title; short
+first_name: Ian
+middle_name:                   # leave blank unless you use one professionally
+last_name: Vandevert
+email: ivandevert@gmail.com     # use whichever you want public
+description: >                 # used in meta tags for link previews / search
+  Personal website of Ian Vandevert, PhD candidate in seismology
+  at Scripps Institution of Oceanography.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  © 2026 Ian Vandevert. Built with
+  <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
+keywords: seismology, earthquake source physics, stress drop, spectral analysi s
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://ianvandevert.com
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -48,6 +47,11 @@ external_services:
 # -----------------------------------------------------------------------------
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
+
+github_username: ivandevert
+orcid_id: 0000-0001-9560-4787                     # your ORCID, e.g., 0000-0000-0000-0000
+scholar_userid: iy5McroAAAAJ               # from your Google Scholar profile URL
+linkedin_username: ian-vandevert-67b01014b
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -91,8 +95,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: blog # blog_name will be displayed in your blog page
+blog_description: thoughts, notes, and occasional longer writing
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -279,8 +283,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Vandevert]
+  first_name: [Ian]
 
   style: apa
   locale: en

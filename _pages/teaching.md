@@ -2,14 +2,32 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description:
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### Teaching Assistantships
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**Natural Disasters** — UC San Diego, Fall 2025
+- Led two local field trips for undergraduates
+- Graded assignments and held office hours
 
-{% include courses.liquid %}
+**Geology of the National Parks** — UC San Diego, Spring 2025
+- Led weekly discussion sections and a field trip
+- Graded assignments and exams
+
+---
+
+### Workshops
+
+**Spectral Decomposition for Earthquake Source Parameters** — SCEC Annual Meeting, September 2024
+- Half-hour tutorial on computing stress drop via spectral decomposition
+- Open-source Python materials: [github.com/ivandevert/sdpy](https://github.com/ivandevert/sdpy)
+
+---
+
+### Outreach
+
+**Guest Lecturer** — My Montessori School of Coronado, 2023
+- Presentation on geology and earthquakes to an elementary-school class (~25 students)
