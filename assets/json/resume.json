@@ -128,7 +128,7 @@
       "endDate": "2024-12-31",
       "url": "https://github.com/ivandevert/sdpy",
       "highlights": [
-        "Three-notebook didactic pipeline: waveform download, spectral computation, and spectral decomposition for source parameters",
+        "Three-notebook pipeline: waveform download, spectral computation, and spectral decomposition for source parameters",
         "Designed as a hands-on starting point for workshop attendees learning spectral decomposition methods"
       ]
     }
@@ -137,12 +137,14 @@
     {
       "name": "Distinguishing Spatial Variations in California Earthquake Dynamics Using a High- to Low-Frequency Spectral Ratio",
       "publisher": "In preparation",
-      "releaseDate": "",
+      "url": "",
+      "releaseDate": "TBD",
       "summary": "Vandevert, I., Shearer, P.M., Fan, W."
     },
     {
       "name": "Using a High- to Low-Frequency Spectral Ratio to Distinguish Variations in Earthquake Source Properties",
       "publisher": "Bulletin of the Seismological Society of America (accepted)",
+      "url": "",
       "releaseDate": "2026-04-01",
       "summary": "Vandevert, I., Shearer, P.M., Fan, W."
     },
@@ -168,6 +170,78 @@
       "summary": "Shearer, P.M., Vandevert, I., Fan, W., et al."
     }
   ],
+  "presentations": [
+      {
+        "name": "Examining Spatial Variations in California Earthquake Dynamics Using a High- to Low-Frequency Spectral Ratio",
+        "venue": "EGU General Assembly",
+        "location": "Vienna, Austria",
+        "date": "2026",
+        "type": "poster"
+      },
+      {
+        "name": "Distinguishing Spatial Variations in California Earthquake Dynamics Using a High- to Low-Frequency Spectral Ratio",
+        "venue": "AGU Annual Meeting",
+        "location": "New Orleans, LA",
+        "date": "2025",
+        "type": "oral"
+      },
+      {
+        "name": "Distinguishing Spatial Variations in California Earthquake Dynamics Using a High- to Low-Frequency Spectral Ratio",
+        "venue": "SCEC Annual Meeting",
+        "location": "Palm Springs, CA",
+        "date": "2025",
+        "type": "poster"
+      },
+      {
+        "name": "Using a Simple High- to Low-Frequency Spectral Ratio to Distinguish Spatial Variations in Earthquake Source Properties",
+        "venue": "AGU Annual Meeting",
+        "location": "Washington, D.C.",
+        "date": "2024",
+        "type": "poster"
+      },
+      {
+        "name": "Ridgecrest Aftershock Stress Drops from P- and S-wave Spectral Decomposition",
+        "venue": "SCEC Annual Meeting",
+        "location": "Palm Springs, CA",
+        "date": "2024",
+        "type": "poster"
+      },
+      {
+        "name": "Estimating Earthquake Source Parameters from S-Wave Maximum Amplitudes: Application to the 2019 Ridgecrest Sequence",
+        "venue": "AGU Annual Meeting",
+        "location": "San Francisco, CA",
+        "date": "2023",
+        "type": "oral"
+      },
+      {
+        "name": "Estimating Earthquake Source Parameters from S-Wave Maximum Amplitudes: Application to the 2019 Ridgecrest Sequence",
+        "venue": "SCEC Annual Meeting",
+        "location": "Palm Springs, CA",
+        "date": "2023",
+        "type": "poster"
+      },
+      {
+        "name": "Earthquake Source Parameters and Their Uncertainties Estimated From S-Wave Maximum Amplitudes Using Amplitude Decomposition: Application to the 2019 Ridgecrest Sequence",
+        "venue": "SSA Annual Meeting",
+        "location": "San Juan, PR",
+        "date": "2023",
+        "type": "poster"
+      },
+      {
+        "name": "Earthquake Source Spectra Estimates Obtained from S-Wave Maximum Amplitudes: Application to the 2019 Ridgecrest Sequence",
+        "venue": "AGU Annual Meeting",
+        "location": "Chicago, IL",
+        "date": "2022",
+        "type": "poster"
+      },
+      {
+        "name": "Earthquake Source Spectra Estimates Obtained from S-wave Maximum Amplitudes: Application to the 2019 Ridgecrest Sequence",
+        "venue": "SCEC Annual Meeting",
+        "location": "Palm Springs, CA",
+        "date": "2022",
+        "type": "poster"
+      }
+  ],
   "awards": [
     {
       "title": "Outstanding Student Presentation Award",
@@ -191,32 +265,26 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "",
       "keywords": ["Python (primary)", "MATLAB", "Fortran"]
     },
     {
       "name": "Python Libraries",
-      "level": "",
       "keywords": ["NumPy", "pandas", "SciPy", "Matplotlib"]
     },
     {
       "name": "Geoscience & Geospatial",
-      "level": "",
       "keywords": ["ObsPy", "PyGMT", "GeoPandas"]
     },
     {
       "name": "Data Engineering",
-      "level": "",
-      "keywords": ["Concurrent and parallel processing", "Pipelines for large datasets (10M+ records)"]
+      "keywords": ["Concurrent and parallel processing", "Large dataset handling (10M+ records)"]
     },
     {
       "name": "Environment",
-      "level": "",
       "keywords": ["Linux", "Remote workflows"]
     },
     {
       "name": "Methods",
-      "level": "",
       "keywords": ["Spectral analysis", "Time-series analysis", "Signal processing", "Spatial statistics", "Inversion methods"]
     }
   ]
