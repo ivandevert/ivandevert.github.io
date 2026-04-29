@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "a list of projects I am working on/have worked on",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "",
@@ -52,7 +59,12 @@ ninja.data = [{
           section: "News",},{id: "news-dissertation-defense-scheduled-for-june-2026",
           title: 'Dissertation defense scheduled for June 2026.',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-california-nfi",
+          title: 'California nFI',
+          description: "Quantifying relative high-frequency enrichment of earthquakes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/california_nfi/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
