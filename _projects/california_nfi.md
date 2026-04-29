@@ -7,4 +7,4 @@ importance: 1  # controls ordering
 category: research  # or whatever category you use
 ---
 
-<a href="{{ site.baseurl }}/assets/html/run_16_large.html" class="btn btn-sm z-depth-0" role="button">Interactive Results</a>
+<a href="{{ site.baseurl }}/assets/html/results.html" class="btn btn-sm z-depth-0" role="button">Interactive Results</a>
