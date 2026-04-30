@@ -5,7 +5,7 @@ cv:
   url: https://ianvandevert.com
   location: San Diego, CA
   image: ""
-  summary: Data scientist and software engineer completing a PhD in seismology (defending June 2026), specializing in building analysis pipelines for large scientific datasets (~775,000 events and ~12 million records). Experience spans the full stack of scientific computing: ingesting and cleaning messy real-world data, designing efficient numerical algorithms, and building analysis and visualization workflows. Comfortable working across Python (NumPy, pandas, SciPy, ObsPy, GeoPandas), high-performance computing environments, Linux, and real-time data streams. Author of peer-reviewed publications and open-source scientific tools.
+  summary: Data scientist and software engineer completing a PhD in seismology (defending June 2026), specializing in building analysis pipelines for large scientific datasets (~775,000 events and ~12 million records). Experience spans the full stack of scientific computing -- ingesting and cleaning messy real-world data, designing efficient numerical algorithms, and building analysis and visualization workflows. Comfortable working across Python (NumPy, pandas, SciPy, ObsPy, GeoPandas), high-performance computing environments, Linux, and real-time data streams. Author of peer-reviewed publications and open-source scientific tools.
 
   social_networks:
     - network: GitHub
