@@ -143,8 +143,8 @@
     },
     {
       "name": "Using a High- to Low-Frequency Spectral Ratio to Distinguish Variations in Earthquake Source Properties",
-      "publisher": "Bulletin of the Seismological Society of America (accepted)",
-      "url": "",
+      "publisher": "Bulletin of the Seismological Society of America",
+      "url": "https://doi.org/10.1785/0120250171",
       "releaseDate": "2026-04-01",
       "summary": "Vandevert, I., Shearer, P.M., Fan, W."
     },
@@ -171,6 +171,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Outstanding Student and PhD candidate Presentation",
+      "date": "2026-05-22",
+      "awarder": "European Geophysical Union (EGU)",
+      "summary": "Seismology section."
+    },
     {
       "title": "Outstanding Student Presentation Award",
       "date": "2024-12-01",
