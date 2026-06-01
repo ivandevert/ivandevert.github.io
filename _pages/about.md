@@ -33,4 +33,4 @@ I'm a PhD candidate at Scripps Institution of Oceanography, advised by Peter She
 
 Before Scripps I did my undergraduate in Earth Science at UC Santa Barbara, where I worked with Toshiro Tanimoto on seismic-noise cross-correlation and Robin Matoza on elastic-wave simulation. Between undergrad and grad school I spent a year as a geotechnical associate in the Bay Area, which is where I first started writing real software.
 
-I'm on the market for postdoc positions starting Fall 2026, with a preference for positions in Europe. I'm interested in anything relating to data science or seismology.
+I'm on the market for positions starting sometime in the fall of 2026, with a preference for positions in Europe. I'm interested in anything relating to data science, programming, or seismology.
