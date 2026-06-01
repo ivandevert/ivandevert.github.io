@@ -67,6 +67,11 @@ ninja.data = [{
           description: "Quantifying relative high-frequency enrichment of earthquakes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/california_nfi/";
+            },},{id: "projects-ridgecrest-nfi",
+          title: 'Ridgecrest nFI',
+          description: "Quantifying relative high-frequency enrichment of earthquakes in Ridgecrest",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ridgecrest_nfi/";
             },},{
         id: 'social-cv',
         title: 'CV',
