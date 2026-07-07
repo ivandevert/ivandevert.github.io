@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dissertation defense scheduled for June 2026.
+Successfully defended June 2026.
