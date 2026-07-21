@@ -110,7 +110,7 @@ cv:
           - Vandevert, I.
           - Shearer, P.M.
           - Fan, W.
-        publisher: In preparation
+        publisher: Journal of Geophysical Research Solid Earth (submitted)
         releaseDate: ""
         url: ""
         summary: ""
@@ -120,9 +120,9 @@ cv:
           - Vandevert, I.
           - Shearer, P.M.
           - Fan, W.
-        publisher: Bulletin of the Seismological Society of America (accepted)
-        releaseDate: 2026-04-01
-        url: ""
+        publisher: Bulletin of the Seismological Society of America
+        releaseDate: 2026-05-11
+        url: https://doi.org/10.1785/0120250171
         summary: ""
 
       - title: Overview of the SCEC/USGS Community Stress Drop Validation Study Using the 2019 Ridgecrest Earthquake Sequence
