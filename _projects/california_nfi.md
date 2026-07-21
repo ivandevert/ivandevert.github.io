@@ -1,9 +1,9 @@
 ---
 layout: page
 title: California nFI
-description: Quantifying relative high-frequency enrichment of earthquakes
+description: Quantifying relative high-frequency enrichment of California earthquakes
 img: assets/img/ca_map.png  # optional
-importance: 1  # controls ordering
+importance: 2  # controls ordering
 category: research  # or whatever category you use
 ---
 

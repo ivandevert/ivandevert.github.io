@@ -3,7 +3,7 @@ layout: page
 title: Ridgecrest nFI
 description: Quantifying relative high-frequency enrichment of earthquakes in Ridgecrest
 img: assets/img/ridgecrest_nfi.png  # optional
-importance: 2  # controls ordering
+importance: 3  # controls ordering
 category: research  # or whatever category you use
 ---
 
