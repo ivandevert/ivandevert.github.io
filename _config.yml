@@ -8,8 +8,8 @@ middle_name: # leave blank unless you use one professionally
 last_name: Vandevert
 email: ivandevert@gmail.com # use whichever you want public
 description: > # used in meta tags for link previews / search
-  Personal website of Ian Vandevert, PhD candidate in seismology
-  at Scripps Institution of Oceanography.
+  Personal website of Ian Vandevert, PhD in seismology
+  from Scripps Institution of Oceanography.
 footer_text: >
   © 2026 Ian Vandevert. Built with
   <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
@@ -111,7 +111,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo: ivandevert/py-nfi # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
