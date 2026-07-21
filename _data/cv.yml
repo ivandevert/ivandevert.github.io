@@ -32,7 +32,7 @@ cv:
         start_date: 2021-09-01
         end_date: 2026-06-01
         highlights:
-          - "Dissertation: \"Spatial Variations in Earthquake Source Properties\""
+          - 'Dissertation: "Spatial Variations in Earthquake Source Properties"'
           - "Advisors: Profs. Peter M. Shearer and Wenyuan Fan"
           - "Institute of Geophysics and Planetary Physics (IGPP)"
 

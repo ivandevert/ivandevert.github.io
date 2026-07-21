@@ -2,9 +2,9 @@
 layout: page
 title: py-nfi
 description: Normalized frequency index (nFI) computation for earthquake source spectra
-img: assets/img/mammoth.png  # optional
-importance: 1  # controls ordering
-category: research  # or whatever category you use
+img: assets/img/mammoth.png # optional
+importance: 1 # controls ordering
+category: research # or whatever category you use
 ---
 
 Compute the normalized frequency index (nFI) from earthquake spectra. nFI is a data-driven measure of the relative high-frequency content of a seismic source, providing an observation-based alternative to stress-drop estimation for characterizing source behavior at high frequencies.

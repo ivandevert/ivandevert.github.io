@@ -2,9 +2,9 @@
 layout: page
 title: California nFI
 description: Quantifying relative high-frequency enrichment of California earthquakes
-img: assets/img/ca_map.png  # optional
-importance: 2  # controls ordering
-category: research  # or whatever category you use
+img: assets/img/ca_map.png # optional
+importance: 2 # controls ordering
+category: research # or whatever category you use
 ---
 
 Earthquakes of similar size can produce strikingly different amounts of high-frequency shaking — the rapid jolts most responsible for damage to buildings and infrastructure. What controls this variability remains an open question, and answering it has direct implications for how we forecast ground motion and assess seismic hazard.
@@ -24,6 +24,7 @@ Refresh to reset to original view.
 Want to take a look at the data yourself? [Send me an email](mailto:ivandevert@gmail.com)!
 
 ---
+
 **Full results**
 
 <a href="{{ site.baseurl }}/assets/html/results.html" class="btn btn-outline-primary btn-sm" role="button">Full Results</a>
