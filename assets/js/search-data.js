@@ -64,9 +64,14 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-california-nfi",
           title: 'California nFI',
-          description: "Quantifying relative high-frequency enrichment of earthquakes",
+          description: "Quantifying relative high-frequency enrichment of California earthquakes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/california_nfi/";
+            },},{id: "projects-py-nfi",
+          title: 'py-nfi',
+          description: "Normalized frequency index (nFI) computation for earthquake source spectra",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/py-nfi/";
             },},{id: "projects-ridgecrest-nfi",
           title: 'Ridgecrest nFI',
           description: "Quantifying relative high-frequency enrichment of earthquakes in Ridgecrest",
