@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+"AGU":
+  url: https://www.agu.org/annual-meeting
+  color: "#004175"
+"SCEC":
+  url: https://www.scec.org/
+  color: "#8c1515"
+"SSA":
+  url: https://www.seismosoc.org/annual-meeting/
+  color: "#00549e"
+"EGU":
+  url: https://www.egu.eu/
+  color: "#0b5394"

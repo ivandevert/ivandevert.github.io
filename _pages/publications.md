@@ -18,3 +18,11 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+## conference presentations & posters
+
+<div class="publications">
+
+{% bibliography --file presentations %}
+
+</div>
