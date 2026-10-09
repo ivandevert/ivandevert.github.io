@@ -17,6 +17,8 @@ jobs:
   rendercv:
     name: RenderCV
     runs-on: ubuntu-latest
+    # This site's _data/cv.yml is not in RenderCV's schema; the CV page renders from assets/json/resume.json.
+    if: github.repository == 'alshedivat/al-folio'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
