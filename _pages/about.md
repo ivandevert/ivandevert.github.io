@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, <a href='https://scripps.ucsd.edu/'>Scripps Institution of Oceanography</a>. Earthquake source physics.
+subtitle: Postdoctoral Scholar, <a href='https://igpp.ucsd.edu/'>Institute of Geophysics and Planetary Physics</a>, UC San Diego. Scientific software, radio occultation, earthquake source physics.
 
 profile:
   align: right
@@ -29,8 +29,8 @@ latest_posts:
 
 Some earthquakes produce lots of damaging high-frequency energy; others of the same magnitude release less. The difference matters: high-frequency radiation is what damages buildings, but we still don't fully understand why it varies, or what it reveals about the conditions at depth where the rupture happens.
 
-I'm a PhD candidate at Scripps Institution of Oceanography, advised by Peter Shearer and Wenyuan Fan, working on exactly this question. My dissertation develops a metric I call the normalized frequency index (nFI), which measures how much high-frequency energy an earthquake radiates relative to its low-frequency content. Unlike stress-drop estimates, which require fitting a source model to the observed spectrum, nFI is computed directly from the data. That makes it robust across large catalogs and well suited to asking where source properties vary systematically — across fault systems, with depth, between mainshocks and aftershocks. Most recently, I've applied it to roughly 775,000 events and 12 million seismograms spanning thirty years of California seismicity, and I'm defending in June 2026.
+I worked on exactly this question for my PhD at Scripps Institution of Oceanography, advised by Peter Shearer and Wenyuan Fan. My dissertation developed a metric I call the normalized frequency index (nFI), which measures how much high-frequency energy an earthquake radiates relative to its low-frequency content. Unlike stress-drop estimates, which require fitting a source model to the observed spectrum, nFI is computed directly from the data. That makes it robust across large catalogs and well suited to asking where source properties vary systematically — across fault systems, with depth, between mainshocks and aftershocks. I built an open-source Python pipeline around it and applied it to roughly 775,000 events and 12 million seismograms spanning thirty years of California seismicity. I defended in June 2026.
 
-Before Scripps I did my undergraduate in Earth Science at UC Santa Barbara, where I worked with Toshiro Tanimoto on seismic-noise cross-correlation and Robin Matoza on elastic-wave simulation. Between undergrad and grad school I spent a year as a geotechnical associate in the Bay Area, which is where I first started writing real software.
+Since October 2026 I've been a postdoctoral scholar at the Institute of Geophysics and Planetary Physics at UC San Diego, working with Jennifer Haase.
 
-I'm on the market for positions starting sometime in the fall of 2026, with a preference for positions in Europe. I'm interested in anything relating to data science, programming, or seismology.
+Before Scripps I did my undergraduate in Earth Science at UC Santa Barbara, where I worked with Toshiro Tanimoto on seismic-noise cross-correlation and Robin Matoza on elastic-wave simulation. Between undergrad and grad school I spent a year as a geotechnical associate in the Bay Area.

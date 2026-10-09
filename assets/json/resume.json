@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Ian Vandevert",
-    "label": "PhD Candidate, Seismology",
+    "label": "Postdoctoral Scholar, Scientific Software & Geophysics",
     "image": "",
     "email": "ivandevert@gmail.com",
     "url": "https://ianvandevert.com",
-    "summary": "Data scientist and software engineer completing a PhD in seismology (defending June 2026), specializing in building analysis pipelines for large scientific datasets (~775,000 events and ~12 million records). Experience spans the full stack of scientific computing: ingesting and cleaning messy real-world data, designing efficient numerical algorithms, and building analysis and visualization workflows. Comfortable working across Python (NumPy, pandas, SciPy, ObsPy, GeoPandas), high-performance computing environments, Linux, and real-time data streams. Author of peer-reviewed publications and open-source scientific tools.",
+    "summary": "Data scientist and software engineer with a PhD in seismology, now a postdoctoral scholar developing and refining algorithms for airborne and balloon radio occultation data. Specializes in building analysis pipelines for large scientific datasets (~775,000 events and ~12 million records). Experience spans the full stack of scientific computing: ingesting and cleaning messy real-world data, designing efficient numerical algorithms, and building analysis and visualization workflows. Comfortable working across Python (NumPy, pandas, SciPy, ObsPy, GeoPandas), high-performance computing environments, Linux, and real-time data streams. Author of peer-reviewed publications and open-source scientific tools.",
     "location": {
       "city": "San Diego",
       "countryCode": "US",
@@ -60,11 +60,19 @@
   ],
   "work": [
     {
+      "name": "Institute of Geophysics and Planetary Physics, UC San Diego",
+      "position": "Postdoctoral Scholar",
+      "location": "San Diego, California",
+      "startDate": "2026-10-01",
+      "endDate": "",
+      "highlights": ["Develop and refine algorithms and software for airborne and balloon radio occultation data", "Supervisor: Dr. Jennifer S. Haase"]
+    },
+    {
       "name": "Scripps Institution of Oceanography, UC San Diego",
       "position": "Graduate Student Researcher",
       "location": "San Diego, California",
       "startDate": "2021-09-01",
-      "endDate": "",
+      "endDate": "2026-07-31",
       "highlights": [
         "Developed methods for characterizing earthquake source properties, applied to catalogs of ~775,000 events and ~12 million seismograms",
         "Introduced the normalized frequency index (nFI), a metric distinguishing spatial variations in earthquake source physics; released as an open-source end-to-end Python pipeline (py-nfi)",
